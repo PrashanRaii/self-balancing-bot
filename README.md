@@ -175,6 +175,8 @@ Minor Project (BEI080)/
 | `Project_Resources/Reports/` | Reports and presentation files |
 | `Project_Resources/Archive/` | Project backup archive |
 
+For the complete installation list, see [`DEPENDENCIES.md`](DEPENDENCIES.md).
+
 ---
 
 ## 🚀 How to Run the Project
