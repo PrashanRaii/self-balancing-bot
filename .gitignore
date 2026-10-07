@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Arduino IDE temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build and compiled files
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# VS Code settings
+.vscode/
+
+# PlatformIO files, if PlatformIO is used later
+.pio/
+
+# Personal or local configuration files
+secrets.h
+local_config.h
