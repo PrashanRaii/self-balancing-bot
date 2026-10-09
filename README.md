@@ -10,12 +10,14 @@ This project was developed by four BEI students of the 2080 batch as a sixth-sem
 
 ## 👥 Project Team
 
-| Team member | Student ID |
-|---|---|
-| **Aadesh Dahal** | `PU080BEI002` |
-| **Nishchal Pokhrel** | `PU080BEI0027` |
-| **Prashan Chenta Rai** | `PU080BEI030` |
-| **Yogesh Khadka** | `PU080BEI048` |
+## 👥 Project Team
+
+| Team member | Student ID | Profiles |
+|---|---|---|
+| **Aadesh Dahal** | `PU080BEI002` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](Aadesh_LINKEDIN_URL) |
+| **Nishchal Pokhrel** | `PU080BEI0027` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](Nishchal_LINKEDIN_URL) |
+| **Prashan Chenta Rai** | `PU080BEI030` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanrai/) |
+| **Yogesh Khadka** | `PU080BEI048` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](Yogesh_LINKEDIN_URL) |
 
 We worked together as a team to design, assemble, program, test, and document this self-balancing robot.
 
