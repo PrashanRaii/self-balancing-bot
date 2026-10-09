@@ -14,12 +14,10 @@ This project was developed by four BEI students of the 2080 batch as a sixth-sem
 
 | Team member | Student ID | Profiles |
 |---|---|---|
-| **Aadesh Dahal** | `PU080BEI002` | 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](Aadesh_LINKEDIN_URL) | -->
+| **Aadesh Dahal** | `PU080BEI002` | [![Facebook](https://img.shields.io/badge/Facebook-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.facebook.com/aadesh.dahal.1145) |
 | **Nishchal Pokhrel** | `PU080BEI0027` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-pokhrel-571a1b2b6/) |
 | **Prashan Chenta Rai** | `PU080BEI030` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanrai/) |
-| **Yogesh Khadka** | `PU080BEI048` | 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](Yogesh_LINKEDIN_URL) | -->
+| **Yogesh Khadka** | `PU080BEI048` | [![Facebook](https://img.shields.io/badgeFacebook-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.facebook.com/yogesh.khadka.3386585) |
 
 We worked together as a team to design, assemble, program, test, and document this self-balancing robot.
 
