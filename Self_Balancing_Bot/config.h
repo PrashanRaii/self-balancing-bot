@@ -14,7 +14,7 @@
 #define MPU_SDA 21
 #define MPU_SCL 22
 
-// ---------------- LEFT MOTOR DRIVER ----------------
+// ---------------- LEFT MOTOR DRIVER ------------------
 #define LEFT_ENA 25
 #define LEFT_IN1 26
 #define LEFT_IN2 27
@@ -181,6 +181,7 @@ extern float pidOutput;
 extern float pidProportional;
 extern float pidIntegralOutput;
 extern float pidDerivativeOutput;
+
 
 // ---- startup ramp (shared between balance_pid and motor_control) ----
 extern bool motorsStarted;
