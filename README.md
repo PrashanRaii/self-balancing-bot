@@ -10,8 +10,6 @@ This project was developed by four BEI students of the 2080 batch as a sixth-sem
 
 ## 👥 Project Team
 
-## 👥 Project Team
-
 | Team member | Student ID | Profiles |
 |---|---|---|
 | **Aadesh Dahal** | `PU080BEI002` | [![Facebook](https://img.shields.io/badge/Facebook-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.facebook.com/aadesh.dahal.1145) |
